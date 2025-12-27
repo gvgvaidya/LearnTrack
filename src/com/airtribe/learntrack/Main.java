@@ -1,7 +1,7 @@
 package com.airtribe.learntrack;
 
 import com.airtribe.learntrack.entity.Enrollment;
-import com.airtribe.learntrack.entity.EnrollmentStatus;
+import com.airtribe.learntrack.enums.EnrollmentStatus;
 import com.airtribe.learntrack.entity.Student;
 import com.airtribe.learntrack.entity.Course;
 import com.airtribe.learntrack.exception.EntityNotFoundException;
