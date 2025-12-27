@@ -2,7 +2,7 @@
 package com.airtribe.learntrack.service;
 
 import com.airtribe.learntrack.entity.Enrollment;
-import com.airtribe.learntrack.entity.EnrollmentStatus;
+import com.airtribe.learntrack.enums.EnrollmentStatus;
 import com.airtribe.learntrack.exception.EntityNotFoundException;
 import com.airtribe.learntrack.util.IdGenerator;
 
